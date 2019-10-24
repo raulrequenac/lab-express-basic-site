@@ -1,0 +1,28 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  font-family: Arial,
+  Helvetica,
+  sans-serif;
+}
+
+div {
+  color: white;
+  background-color: darkcyan;
+  height: 4rem;
+  display: flex;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+img {
+  height: 700px;
+}
